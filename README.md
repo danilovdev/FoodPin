@@ -14,7 +14,7 @@ Update 1. Implemented by 14 January 2019
 9. Adopt UIAlertViewController for iPad
 10. UIStackView
 
-Update 1. Implemented by 21 January 2019
+Update 2. Implemented by 21 January 2019
 1. Table View Header View
 2. Self-Sizing Table Cells
 3. Transparent Navigation Bar
